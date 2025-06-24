@@ -63,3 +63,7 @@ Now in the Voiceflow API Step, paste the URL copied from ngrok followed by the `
 
 You're welcome to contribute to this project. Please fork the repo, make your improvements and then submit a PR.
 
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=voiceflow-community_hugginface-inference&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=voiceflow-community_hugginface-inference)
+
+
